@@ -1,5 +1,5 @@
 import unittest
-from builders import urlBuilder
+from urlBuilder.builders import urlBuilder
 
 class urlBuilderSpec(unittest.TestCase):
     def test_hello(self):
